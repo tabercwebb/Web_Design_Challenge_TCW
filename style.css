@@ -1,0 +1,35 @@
+.navbar-brand {font-size: 26px; font-weight: bold; padding-left: 12px; padding-right: 12px; border-radius: 3px; margin-left: 60px}
+
+.nav-item {font-size: 18px}
+
+.navbar {max-height: 70px}
+
+.landing-box {background-color: #F8F8FF; padding: 20px; margin-top: 100px}
+
+.landing-img {height: 250px; width: 300px; margin-right: 10px}
+
+.img-rt {padding-bottom: 20px}
+
+.img-main {margin-bottom: 15px}
+
+.para {line-height: 175% !important}
+
+.comparison-box {background-color: #F8F8FF; padding: 20px; margin-top: 145px; margin-bottom: 75px}
+
+.comp-title {font-size: 20px}
+
+.comp-text {padding-left: 10px; padding-bottom: 10px}
+
+.table-box {width: 75%; margin: 0 auto; margin-bottom: 30px; margin-top: 110px; background-color: #F8F8FF; border: solid; border-width: 6px; border-color: #2C3E50}
+
+.table-inside {width: 100%; margin: 0 auto; margin-bottom: 30px}
+
+.data-holder {margin-left: 3%; margin-bottom: 0px; margin-top: 30px}
+
+.footer {padding: 8px; color: #F8F8FF; border-top: solid; border-top-width: thick; border-top-color: #18BC9C}
+
+@media(max-width: 767px) {.navbar-expand-md {background-color: #18BC9C !important}
+                          .main-box {margin-top: 120px}
+                          .secondary-box {margin-top: 50px; margin-bottom: 80px !important}
+                          .comparison-box {margin-top: 190px}
+                          .table-box {margin-top: 190px !important}}
